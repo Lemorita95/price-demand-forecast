@@ -17,8 +17,6 @@ PRICE_FILE = os.path.join(DATA_FOLDER, 'price_dk1.csv')
 DEMAND_FILE = os.path.join(DATA_FOLDER, 'load_dk1_2021.csv')
 WEATHER_FILE = os.path.join(DATA_FOLDER, 'weather_dk1.csv')
 
-API_KEY = 'SECRET_API_KEY'
-
 
 class CustomError(Exception):
     """Custom exception with a message."""
