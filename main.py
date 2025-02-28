@@ -16,7 +16,7 @@ TRAIN_TEST_DATES = {
     'demand_testing_end_date': date(2021, 5, 1),
 
     'price_training_start_date': date(2021, 1, 1),
-    'price_training_end_date': date(2021, 3, 31),
+    'price_training_end_date': date(2021, 12, 31),
 }
 
 ''' initiate DEMAND model object and check for existing model '''
