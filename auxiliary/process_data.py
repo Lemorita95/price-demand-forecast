@@ -68,7 +68,7 @@ def prepare_demand_data(**kwargs):
         'max_di': max_di,
         'day_ahead_demand': day_ahead,
         'week_ahead_demand': week_ahead,
-        # 'day_of_week': day_of_week,
+        'day_of_week': day_of_week,
         'true_demand': true_demand,
     }
     test_data = {
@@ -77,7 +77,7 @@ def prepare_demand_data(**kwargs):
         'max_di': demand_test_di_y,
         'day_ahead_demand': demand_test_day_ahead_y,
         'week_ahead_demand': demand_test_week_ahead_y,
-        # 'day_of_week': demand_test_day_of_week_y,
+        'day_of_week': demand_test_day_of_week_y,
         'true_demand': demand_test_true_demand_y,
     }
 
