@@ -1,0 +1,9 @@
+requests
+numpy
+datetime
+tensorflow
+keras
+matplotlib
+pandas
+statsmodels
+scikit-learn
